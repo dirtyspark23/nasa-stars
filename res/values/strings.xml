@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Discovery Mars</string>
+    <string name="welcome_message">Space App</string>
+    <string name="start_now">Start Now</string>
+    <string name="add_items">Add Items</string>
+    <string name="drill_info">The drill is useful for getting water that your colony can use to drink. The water comes from the natural aquifers in the mars landscape.During past ages, there was rain and or snow on Mars. Some moisture entered the ground and formed aquifers.</string>
+    <string name="green_house_info">On mars you will have to grow your own food. By having a green house your colony and you will have food to survive.</string>
+    <string name="message">Welcome to Discovery Mars! You will embark on a step by step tutorial which will teach you about the colonization of Mars.</string>
+    <string name="title">Welcome To Discovery Mars</string>
+    <string name="house_info">The modular is the housing for your astronauts. It gives protection from sand storm on mars, and the harsh temperature. </string>
+    <string name="continue_message">Please click the icon below to begin tutorial</string>
+    <string name="rover_info">The rovers on mars search for life. Which earns you more money each discovery </string>
+    <string name="score">Days Alive: Two</string>
+</resources>
