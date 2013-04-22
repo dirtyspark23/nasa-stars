@@ -1,9 +1,9 @@
-NASA International Space App Challenge
+# NASA International Space App Challenge
+=======================================
 
-# Project Reach for the Stars
-# Team - Discovery Mars
-======================================
-Android Based Game | Not Fully Completed - Only Mockup
+   * Project - Reach for the Stars
+   * Team - Discovery Mars
+   * Android Based Game | Not Fully Completed - Only Mockup
 
 Project Description
 =============================
