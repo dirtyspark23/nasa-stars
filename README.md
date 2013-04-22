@@ -8,7 +8,7 @@
 Project Description
 =============================
 
-Our team is making a app that will let you colonies mars. You will have to get water, food, and research the mars landscape. You will be able to grow  your colony over many locations. The research the rover's find will allow you to earn money which you can use to buy more green houses,and drills etc, which will grow your colony. 
+Our team is making a app that will let you colonize mars. You will have to get water, food, and research the mars landscape. You will be able to grow  your colony over many locations. The research the rover's find will allow you to earn money which you can use to buy more green houses,and drills etc, which will grow your colony. 
 
 
 For Educational Purposes Only
