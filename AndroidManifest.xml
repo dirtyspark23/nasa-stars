@@ -36,7 +36,7 @@
         </activity>
         <activity
             android:name=".activity.AddItemActivity"
-            android:theme="@android:style/Theme.DeviceDefault.Light.Dialog">
+            android:theme="@android:style/Theme.Holo.Light.Dialog">
         </activity>
     </application>
 </manifest>

@@ -16,14 +16,14 @@ public class GameNative extends Activity {
 	private ImageView house1;
 	private ImageView house2;
 	
-	private LinearLayout layout;
+	LinearLayout layout;
 	
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.game_native);
 		
-		layout = (LinearLayout)findViewById(R.layout.game_native);
+		layout = (LinearLayout)findViewById(R.id.linearLayout);
 		setupViews();
 		
 
